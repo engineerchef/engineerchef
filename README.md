@@ -3,7 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=engineerchef&show_icons=true&count_private=true" />
 </a>
 
-
+<p>
 **engineerchef/engineerchef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Translation in Speech2Speech Project
 - 💬 Ask me about Java
 - 📫 How to reach me: admin@tolgaduran.com
-
+</p>
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
