@@ -6,8 +6,8 @@
 <p>
 
 - 🔭 I’m currently working on Gazi University as Senior Software Engineer
-- 🌱 I’m currently learning Machine Translation in Speech2Speech Project
-- 💬 Ask me about Java
+- 🌱 I’m currently learning Machine Translation in <a href="https://github.com/Speech2Speech" target="_blank">Speech2Speech</a> Project
+- 💬 Ask me about Java and Python
 - 📫 How to reach me: admin@tolgaduran.com
 </p>
 <!--
