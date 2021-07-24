@@ -4,9 +4,6 @@
 </a>
 
 <p>
-**engineerchef/engineerchef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gazi University as Senior Software Engineer
 - 🌱 I’m currently learning Machine Translation in Speech2Speech Project
@@ -14,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: admin@tolgaduran.com
 </p>
 <!--
+**engineerchef/engineerchef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
