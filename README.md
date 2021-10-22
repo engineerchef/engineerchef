@@ -6,7 +6,6 @@
 </a>
 
 <p>
-
 - 🔭 I’m currently working on Gazi University as Senior Software Engineer
 - 🌱 I’m currently learning Machine Translation in <a href="https://github.com/Speech2Speech" target="_blank">Speech2Speech</a> Project
 - 💬 Senior Java and Python Developer
